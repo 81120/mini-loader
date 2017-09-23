@@ -1,0 +1,126 @@
+
+    /*
+    * by Alexander Grothendieck
+    * at 1494985107277
+    * /
+    @import "theme-variables.scss";
+
+// 前景颜色
+.theme-color-level1{
+  color: $level1-value;
+}
+.theme-color-level2{
+  color: $level2-value;
+}
+.theme-color-level3{
+  color: $level3-value;
+}
+.theme-color-level4{
+  color: $level4-value;
+}
+.theme-color-level5{
+  color: $level5-value;
+}
+
+// 背景颜色
+.theme-bg-level1{
+  background-color: $level1-value;
+}
+.theme-bg-level2{
+  background-color: $level2-value;
+}
+.theme-bg-level3{
+  background-color: $level3-value;
+}
+.theme-bg-level4{
+  background-color: $level4-value;
+}
+.theme-bg-level5{
+  background-color: $level5-value;
+}
+
+// 边框颜色
+.theme-bd-level1{
+  border-color: $level1-value;
+}
+.theme-bd-level2{
+  border-color: $level2-value;
+}
+.theme-bd-level3{
+  border-color: $level3-value;
+}
+.theme-bd-level4{
+  border-color: $level4-value;
+}
+.theme-bd-level5{
+  border-color: $level5-value;
+}
+
+// 上侧边框颜色
+.theme-bd-t-level1{
+  border-top-color: $level1-value;
+}
+.theme-bd-t-level2{
+  border-top-color: $level2-value;
+}
+.theme-bd-t-level3{
+  border-top-color: $level3-value;
+}
+.theme-bd-t-level4{
+  border-top-color: $level4-value;
+}
+.theme-bd-t-level5{
+  border-top-color: $level5-value;
+}
+
+// 下侧边框颜色
+.theme-bd-b-level1{
+  border-bottom-color: $level1-value;
+}
+.theme-bd-b-level2{
+  border-bottom-color: $level2-value;
+}
+.theme-bd-b-level3{
+  border-bottom-color: $level3-value;
+}
+.theme-bd-b-level4{
+  border-bottom-color: $level4-value;
+}
+.theme-bd-b-level5{
+  border-bottom-color: $level5-value;
+}
+
+// 左侧边框颜色
+.theme-bd-l-level1{
+  border-left-color: $level1-value;
+}
+.theme-bd-l-level2{
+  border-left-color: $level2-value;
+}
+.theme-bd-l-level3{
+  border-left-color: $level3-value;
+}
+.theme-bd-l-level4{
+  border-left-color: $level4-value;
+}
+.theme-bd-l-level5{
+  border-left-color: $level5-value;
+}
+
+// 右侧边框颜色
+.theme-bd-r-level1{
+  border-right-color: $level1-value;
+}
+.theme-bd-r-level2{
+  border-right-color: $level2-value;
+}
+.theme-bd-r-level3{
+  border-right-color: $level3-value;
+}
+.theme-bd-r-level4{
+  border-right-color: $level4-value;
+}
+.theme-bd-r-level5{
+  border-right-color: $level5-value;
+}
+  
